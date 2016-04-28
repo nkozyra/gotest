@@ -1,0 +1,2 @@
+# gotest
+"Namespace" example
